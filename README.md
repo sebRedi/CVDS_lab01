@@ -12,3 +12,9 @@ Si se quiere añadir todos los cambios en el directorio de trabajo, se puede usa
 - Por último, se abrió una interfaz para iniciar sesión.
 
 Para finalizar esta primera parte, haremos un último commit con el mensaje "Finalización de la parte 1".
+
+
+## Parte 2 y 3:
+
+Para esta parte del laboratorio empezamos a trabajar en conjunto Julian Santiago Cárdenas Cubaque y mi persona (Sebastian Galvis Briceño).
+A partir de ahora, el resto del desarrollo del laboratorio lo llevaré a cabo en el repositorio de mi compañero Julián: https://github.com/YulienCC2512/cvds-lab1/
